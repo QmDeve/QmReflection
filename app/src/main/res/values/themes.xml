@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.QmReflection" parent="Theme.Material3.DynamicColors.Light.NoActionBar"/>
+</resources>
