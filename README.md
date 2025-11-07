@@ -74,12 +74,6 @@ try {
 
 ---
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=QmDeve/QmReflection&type=date&legend=bottom-right)](https://www.star-history.com/#QmDeve/QmReflection&type=date&legend=bottom-right)
-
----
-
 ### My other open-source library
 - **[QmBlurView](https://github.com/QmDeve/QmBlurView)**
 - **[AndroidLiquidGlassView](https://github.com/QmDeve/AndroidLiquidGlassView)**
