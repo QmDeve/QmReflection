@@ -9,7 +9,6 @@
   <img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" alt="Apache"/>
   <img src="https://img.shields.io/badge/targetSdk-36-green" alt="targetSdk"/>
   <img src="https://img.shields.io/maven-central/v/com.qmdeve/QmReflection" alt="maven"/>
-  <img src="https://img.shields.io/github/stars/QmDeve/QmReflection" alt="Stars"/>
 
 <br>
 <br>
